@@ -1,6 +1,6 @@
 #pragma once
 
-#include "display/Display.h"
+#include <Display.h>
 
 struct WifiConfigOrFallbackAccesspointManager
 {
