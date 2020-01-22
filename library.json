@@ -1,0 +1,30 @@
+{
+  "name": "WifiConfigOrFallbackAccesspointManager",
+  "keywords": "wifi, config, fallback, accesspoint, wifi manager, http",
+  "description": "yet another wifi config manager",
+  "homepage": "https://github.com/yapiolibs/wificonfighttpmanager",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yapiolibs/wificonfighttpmanager.git"
+  },
+  "authors": [
+    {
+      "name": "Raoul Rubien",
+      "url": "https://github.com/rubienr",
+      "maintainer": "true"
+    }
+  ],
+  "dependencies": [
+    {
+      "name": "WifiManager",
+      "frameworks": "arduino"
+    },{
+      "name": "https://github.com/yapiolibs/ssd1306display",
+      "frameworks": "arduino"
+    }
+  ],
+  "version": "0.1",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
+
