@@ -10,7 +10,7 @@ WifiConfigOrFallbackAccesspointManager::WifiConfigOrFallbackAccesspointManager(D
     IPAddress address(192, 168, 0, 1);
     IPAddress &gateway = address;
     IPAddress subnet(255, 255, 255, 0);
-    String essid(String("ESP") + ESP.getChipId());
+    String essid(String("ESP") + WiFiManager::getChipId());
     WiFiManager wifiManager;
 
     display.reset();
