@@ -16,11 +16,11 @@
   ],
   "dependencies": [
     {
-      "url": "https://github.com/yapiolibs/WiFiManager",
-      "frameworks": "arduino"
+      "name": "WiFiManager",
+      "version": "https://github.com/yapiolibs/WiFiManager"
     },{
-      "url": "https://github.com/yapiolibs/ssd1306display",
-      "frameworks": "arduino"
+      "name": "ssd1306display",
+      "version": "https://github.com/yapiolibs/ssd1306display"
     }
   ],
   "version": "0.1",
