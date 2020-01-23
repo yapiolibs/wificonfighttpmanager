@@ -17,10 +17,10 @@
   "dependencies": [
     {
       "name": "WiFiManager",
-      "version": "https://github.com/yapiolibs/WiFiManager.git"
+      "version": "https://github.com/yapiolibs/WiFiManager.git#0.1"
     },{
       "name": "ssd1306display",
-      "version": "https://github.com/yapiolibs/ssd1306display.git"
+      "version": "https://github.com/yapiolibs/ssd1306display.git#0.1"
     }
   ],
   "version": "0.1",
