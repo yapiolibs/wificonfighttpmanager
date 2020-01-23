@@ -19,7 +19,7 @@
       "name": "WifiManager",
       "frameworks": "arduino"
     },{
-      "name": "https://github.com/yapiolibs/ssd1306display",
+      "url": "https://github.com/yapiolibs/ssd1306display",
       "frameworks": "arduino"
     }
   ],
