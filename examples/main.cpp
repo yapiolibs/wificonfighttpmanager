@@ -9,9 +9,10 @@ void setup()
     
     WiFi.mode(WIFI_AP);
     WifiConfigOrFallbackAccesspointManager foo(display);
+    // wifi connection to AP established
 }
 
 void loop()
 {
-    // wifi established
+    
 }
